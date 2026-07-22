@@ -20,10 +20,10 @@
 
 ###  Featured Projects
 
-####  [SentinelX](https://github.com/dulmina-hasith/sentinelx) *(Flagship)*
+####  - [SentinelX](https://github.com/dulmina-hasith/sentinelx) *(Flagship)*
 > A lightweight intrusion detection and system monitoring tool written in Python. Parses Linux system logs to detect unauthorized access attempts and suspicious patterns.
 
-####  [Retro Chess](https://github.com/dulmina-hasith/retro-chess)
+####  - [Retro Chess](https://github.com/dulmina-hasith/retro-chess)
 > A browser-based chess game built using pure HTML, CSS, and vanilla JavaScript. Demonstrates core programming logic and UI state management without framework abstractions.
 
 ---
